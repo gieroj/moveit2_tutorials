@@ -43,7 +43,7 @@ Step 1: Start
 
 * To start the MoveIt Setup Assistant: ::
 
-   roslaunch moveit_setup_assistant setup_assistant.launch
+   ros2 launch moveit_setup_assistant setup_assistant.launch.py
 
 * This will bring up the start screen with two choices: *Create New
   MoveIt Configuration Package* or *Edit Existing MoveIt
